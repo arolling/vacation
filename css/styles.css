@@ -4,3 +4,11 @@
 body {
   background-color: #FFE58B;
 }
+
+.glyphicon {
+  font-size: 3em;
+}
+
+.glyphicon-sunglasses {
+  font-size: 6em;
+}

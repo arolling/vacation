@@ -12,3 +12,14 @@ body {
 .glyphicon-sunglasses {
   font-size: 6em;
 }
+
+.carousel-indicators{
+  bottom:0;
+}
+
+.jumbotron {
+  background-color: transparent;
+  background-image:url("../img/flag.jpg");
+  background-size: cover;
+
+}
